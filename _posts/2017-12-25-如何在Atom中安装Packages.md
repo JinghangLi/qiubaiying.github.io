@@ -15,11 +15,11 @@ tags:
 ### Atom
 Atom与markdown的package相配合，可以配置为轻量化的文本编辑器。
 
-###Markdown
+### Markdown
 Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。  
 [Markdown tutorials](https://www.markdowntutorial.com/)
 
-#步骤
+# 步骤
 1. 在Atom的[Packages网页](https://atom.io/packages)中选择想要安装的packages
 2. 找到需要的Package后，进入页面，点击 **Repo** 进入该Package在Github中的开源网页
 3. 点击 **Clone or download** 复制 web URL 用于 **git Clone** 命令
