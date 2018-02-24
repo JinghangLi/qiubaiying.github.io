@@ -1,16 +1,16 @@
 ---
 layout:     post
-title:      ROS-tutorials
-subtitle:   "小强"ROS机器人复现教程
-date:       2018-1-26
+title:      ROS—XiaoQiang机器人使用教程
+subtitle:   教程复现版
+date:       2017-12-25
 author:     LJH
 header-img: img/post-bg-xiaoqiang.jpg
 catalog: true
 tags:
     - ROS
     - SLAM
-    - 手动安装
 ---
+
 # ROS—XiaoQiang机器人使用教程
 ## 一.使用前的准备
 ### 1.设置网络
