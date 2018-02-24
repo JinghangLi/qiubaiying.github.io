@@ -1,9 +1,9 @@
 # Site settings
 title: LJH Blog
 SEOTitle: 景行的博客 | LJH Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg-spacex.jpg
 email: li_jinghang@163.com
-description: "Work Smart not Hard."
+description: DON'T PANIC
 keyword: " LJH Blog, 景行的博客, ROS, PPA, 学习笔记, 吐槽, 杂谈"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
