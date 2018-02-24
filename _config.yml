@@ -4,7 +4,7 @@ SEOTitle: 景行的博客 | LJH Blog
 header-img: img/post-bg-desk.jpg
 email: li_jinghang@163.com
 description: "Work Smart not Hard."
-keyword: " LJH Blog, 景行的博客, ROS, PPA, ORB-SLAM2, 吐槽, 杂谈"
+keyword: " LJH Blog, 景行的博客, ROS, PPA, 学习笔记, 吐槽, 杂谈"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -17,8 +17,8 @@ sidebar-avatar: /img/head_photo.jpg      # use absolute URL, seeing it's used in
 
 
 # SNS settings
-RSS: true
-#weibo_username:     qiubaiying
+RSS: false
+weibo_username:     Stuttgart-
 QQ_username:        1065153672
 zhihu_username:     Stuart
 github_username:    JinghangLi
