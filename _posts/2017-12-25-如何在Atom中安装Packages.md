@@ -11,8 +11,8 @@ tags:
     - Packages
     - 手动安装
 ---
-#前言
-###Atom
+# 前言
+### Atom
 Atom与markdown的package相配合，可以配置为轻量化的文本编辑器。
 
 ###Markdown
@@ -44,7 +44,7 @@ $ cd markdown
 8. 进入后，开始安装
 ```
 $ sudo npm install
-``` 
+```
 9. 等待安装好以后，就重启atom。
 
 *注释：如果反馈没有安装npm，则可以在输入命令自己安装npm*
